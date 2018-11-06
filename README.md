@@ -30,3 +30,19 @@ Proceedings of the IEEE International Symposium on Robot and Human Interactive C
 Find all information to run a simulated NICO in the wiki at https://github.com/knowledgetechnologyuhh/NICO-software/wiki
 
 Find much more information and how to build your own NICO at http://nico.knowledge-technology.info
+
+## Credits
+
+### Head
+
+Head based on the iCub design: http://wiki.icub.org/wiki/RobotCub 
+
+Modifications: Added camera holders, added neckholders, added holder for optional xtion camera.
+
+### Ears
+
+Left and right ear based on https://www.thingiverse.com/thing:31843 by https://www.thingiverse.com/Cbonsig/about
+
+Licenses under the "Attribution-ShareAlike 3.0 Unported" license ( https://creativecommons.org/licenses/by-sa/3.0/ )
+
+Modifications: Base in original cut off. Added hole for screw.
