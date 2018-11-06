@@ -45,4 +45,4 @@ Left and right ear based on https://www.thingiverse.com/thing:31843 by https://w
 
 Licenses under the "Attribution-ShareAlike 3.0 Unported" license ( https://creativecommons.org/licenses/by-sa/3.0/ )
 
-Modifications: Base in original cut off. Added hole for screw.
+Modifications: Cut off the original base material for fit on NICO. Added hole for screw.
