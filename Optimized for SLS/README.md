@@ -1,10 +1,17 @@
-This folder contains the CAD files for NiCO, optimized for printing with SLS (or equivalent) technology.  
+# NICO-cad (for SLS, Multijet and similar)
+
+This folder contains the CAD files for NiCO  (Neuro Inspired COmpanion) robot, optimized for printing with SLS (or equivalent) technology.  
 (Note: if you wish to print the parts using an FDM printer, please refer to the folder with the regular models)
+
+[![](https://www2.informatik.uni-hamburg.de/wtm/pictures/nico_tomato.jpg)](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/neurobotics/nico.html)
 
 For building a NiCO using these models you will need an SLS (or Multijet) 3D Printing service or Machine. You will also need to Lasercut 2 models (5 parts in total).
  
-These models are built by Seed Robotics Ltd and based upon the original NiCO design for FDM manufacturing.
-Design of the parts was modified in the following key areas:
+The models in this folder were contributed by Seed Robotics and are based on  the original NiCO design for FDM manufacturing.
+
+Licensed under the "Attribution-ShareAlike 3.0 Unported" license ( https://creativecommons.org/licenses/by-sa/3.0/ ) in compliance with the University of Hamburg's license for the NiCO-CAD files.
+
+###### Design of the parts was modified in the following key areas:
 
 * Improve Reliability (with the use of Lasercut parts and reinforced plastic zones)
 * Improve Repeatibility and ease of maintenance regarding the several accessories mounted inside the head
@@ -12,8 +19,6 @@ Design of the parts was modified in the following key areas:
 * Improve Cable routing and management improvements
 * Improve Visual/aesthetics
 * Optimizations for printing using SLS, Multijet or similar technologies
-
-Licensed under the "Attribution-ShareAlike 3.0 Unported" license ( https://creativecommons.org/licenses/by-sa/3.0/ ) in compliance with the University of Hamburg's license for the NiCO-CAD files.
 
 
 ## Part: Head
