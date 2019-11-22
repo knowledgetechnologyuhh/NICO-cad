@@ -7,7 +7,7 @@ This folder contains the CAD files for NiCO  (Neuro Inspired COmpanion) robot, o
 
 For building a NiCO using these models you will need an SLS (or Multijet) 3D Printing service or Machine. You will also need to Lasercut 2 models (5 parts in total).
  
-The models in this folder were contributed by Seed Robotics and are based on  the original NiCO design for FDM manufacturing.
+The models in this folder were contributed by Seed Robotics (http://www.seedrobotics.com) and are based on  the original NiCO design for FDM manufacturing.
 
 Licensed under the "Attribution-ShareAlike 3.0 Unported" license ( https://creativecommons.org/licenses/by-sa/3.0/ ) in compliance with the University of Hamburg's license for the NiCO-CAD files.
 
@@ -19,6 +19,8 @@ Licensed under the "Attribution-ShareAlike 3.0 Unported" license ( https://creat
 * Improve Cable routing and management improvements
 * Improve Visual/aesthetics
 * Optimizations for printing using SLS, Multijet or similar technologies
+
+* 20191122: Added mountings for capacitive pads in the Head (changes in iCub_Face_N(eyes).ipt and occiput.ipt). Location of pads shown in file Capacitive_Pads_Location.png
 
 
 ## Part: Head
